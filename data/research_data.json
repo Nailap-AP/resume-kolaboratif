@@ -1,1 +1,42 @@
-
+[
+  {
+    "id": 1,
+    "judul": "Analisis Pengaruh Machine Learning dalam Diagnosis Penyakit",
+    "peneliti_utama": "Dr. Ahmad Santoso",
+    "institusi": "Universitas Indonesia",
+    "tahun": 2023,
+    "status": "Selesai",
+    "tanggal_mulai": "2023-01-15",
+    "tanggal_selesai": "2023-12-20",
+    "bidang": ["Teknologi", "Kesehatan"],
+    "sumber_dana": "DIKTI",
+    "abstrak": "Penelitian ini menganalisis efektivitas algoritma machine learning dalam membantu diagnosis penyakit jantung berdasarkan data ECG.",
+    "latar_belakang": "Tingginya angka kesalahan diagnosis manual membutuhkan solusi teknologi.",
+    "metodologi": "Mixed methods dengan pendekatan kuantitatif dan kualitatif",
+    "hasil": "Akurasi diagnosis meningkat 25% dengan bantuan AI",
+    "kesimpulan": "Machine learning dapat menjadi alat pendukung diagnosis yang efektif",
+    "link_publikasi": "https://example.com/research1",
+    "kata_kunci": ["AI", "Machine Learning", "Diagnosis", "Kesehatan"],
+    "tanggal_input": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 2,
+    "judul": "Implementasi IoT dalam Smart Farming untuk Peningkatan Produksi",
+    "peneliti_utama": "Prof. Siti Rahayu",
+    "institusi": "Institut Pertanian Bogor",
+    "tahun": 2024,
+    "status": "Berjalan",
+    "tanggal_mulai": "2024-02-01",
+    "tanggal_selesai": null,
+    "bidang": ["Teknologi", "Pertanian"],
+    "sumber_dana": "LPDP",
+    "abstrak": "Penelitian mengimplementasikan sistem IoT untuk monitoring tanaman padi secara real-time.",
+    "latar_belakang": "Perlu efisiensi dalam monitoring pertanian modern",
+    "metodologi": "R&D dengan prototipe sistem IoT",
+    "hasil": "Sistem dapat mendeteksi kelembaban tanah dengan akurasi 95%",
+    "kesimpulan": "",
+    "link_publikasi": "",
+    "kata_kunci": ["IoT", "Smart Farming", "Pertanian", "Sensor"],
+    "tanggal_input": "2024-02-15 14:20:00"
+  }
+]
